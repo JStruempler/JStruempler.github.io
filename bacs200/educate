@@ -1,0 +1,22 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Educate</title>
+  script type="text/javascript" src="https://me.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=rPIOi1rxD8w5zxd0xCCy6FftUe9UDjPzBoQJqpMDaGu5AmTuthGfbJUpBlYmI3O2Tzmhj-jUxrC5F1UY1gb0KRZLqklcG4QLA8y-MATmCHc" charset="UTF-8"></script>
+  <body>
+    <h1>Educate</h1>
+    <p>
+      The internet has some wonderful resources that help educate and inspire. Here are some of my favorite videos that highlight that concept.
+    </p>
+    <section>
+      <h3>Drew Dudley: Everyday Leadership</h3>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/uAy6EawKKME"></iframe>
+      
+      <h3>Judith Heumann: Our fight for disability rights -- and why we're not done yet</h3>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/uJr4wGcLNsA" title="YouTube video player"></iframe>
+    </section>
+    <section>
+      
+    
+  </body>
+</html>
