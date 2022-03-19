@@ -1,31 +1,24 @@
-th, caption
-{
+th, caption{
     font-size:20pt;
     background-color:skyblue;
     border:3px groove navyblue;
     font-weight:bold;
 }
-table
-{
+table{
     border-spacing:0
 }
-td
-{
+td{
     border:1px solid #606060;
 }
-*[scope^="col"]
-{
+*[scope^="col"]{
     column-width:300px;
 }
-*[scope^="row"]
-{
+*[scope^="row"]{
     font-size:45pt;
 }
-thead th
-{
+thead th{
     background-color:skyblue
 }
-th + td
-{
+th + td{
     font-weight:bold;
 }
