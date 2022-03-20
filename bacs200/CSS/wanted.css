@@ -7,7 +7,7 @@ body {
 	background-color: var(--main-bg-color);
 	text-align: center;
 }
-header h1 {
+header h3 {
 	font-weight: bold;
 	font-size: 26px;
 	font-variant:small-caps;
