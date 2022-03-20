@@ -15,10 +15,3 @@ header {
 #wantedlist>h3 {
 	text-decoration: underline;
 }
-main ul {
-	display: table;
-	text-align: left;
-}
-#wantedlist {
-	float:right;
-}
