@@ -1,7 +1,10 @@
-root:{
+root: {
 	--main-bg-color: #ffe1b2;
 }
-body{
+body {
 	margin: 10px;
 	border: 5px solid #51350a;
+}
+html {
+	background-color: var(--main-bg-color);
 }
