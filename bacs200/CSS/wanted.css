@@ -19,3 +19,6 @@ main ul {
 	display: table;
 	text-align: left;
 }
+#wantedlist {
+	float:right;
+}
