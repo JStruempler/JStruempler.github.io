@@ -1,5 +1,7 @@
-/*
-*
-{
-	border: 1px solid brown;
+root:{
+	--main-bg-color: #ffe1b2;
+}
+body{
+	margin: 10px;
+	boarder: 5px solid #51350a;
 }
