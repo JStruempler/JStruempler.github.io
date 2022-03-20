@@ -16,5 +16,6 @@ header {
 	text-decoration: underline;
 }
 main ul {
+	display: table;
 	text-align: left;
 }
