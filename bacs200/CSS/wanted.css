@@ -11,3 +11,6 @@ body {
 #wantedlist>h3 {
 	text-decoration: underline;
 }
+main ul {
+	text-align: left;
+}
