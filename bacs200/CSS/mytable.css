@@ -22,3 +22,6 @@ thead th{
 th + td{
     font-weight:bold;
 }
+body{
+    text-align:center;
+}
