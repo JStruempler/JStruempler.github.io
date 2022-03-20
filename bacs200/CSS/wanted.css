@@ -6,7 +6,11 @@ body {
 	border: 5px solid #51350a;
 	background-color: var(--main-bg-color);
 	text-align: center;
-	font: bold 18px small-caps
+}
+header {
+	font-weight: bold;
+	font-size: 18px;
+	font-variant:small-caps;
 }
 #wantedlist>h3 {
 	text-decoration: underline;
