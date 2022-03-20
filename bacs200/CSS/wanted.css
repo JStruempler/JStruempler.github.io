@@ -4,7 +4,7 @@ root: {
 body {
 	margin: 10px;
 	border: 5px solid #51350a;
-	background-color: #ffe1b2;
+	background-color: var(--main-bg-color);
 	text-align: center;
 	font: bold 18px small-caps
 }
