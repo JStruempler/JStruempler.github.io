@@ -117,4 +117,18 @@ iframe{
 frameborder: 0;
 scrolling: no;
 }
+
+#grid-container{
+	display: grid;
+	grid-template-columns: auto auto auto;
+}
+
+#grid-container: > div {
+	text-align: center;
+	background: RGB (95,181,61);
+	border: 4px RGB (77,30,97);
+	padding: 15px;
+}
+
+
 </style>
