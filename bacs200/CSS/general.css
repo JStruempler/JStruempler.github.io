@@ -1,1 +1,122 @@
+<style>
+.aligncenter
+{
+	text-align: center;
+}
 
+.center
+{
+ margin-left: auto;
+ margin-right: auto;
+ display:block;
+ width: 50%
+}
+
+.implication
+{
+text-align: justified;
+}
+
+body
+{
+text-align: center;
+}
+
+header
+{
+background-color: rgb(204,207,255);
+font-size: 30px;
+border-style: ridge;
+border-color: green;
+border-width: medium;
+text-align: center;
+}
+
+tfoot
+{
+background-color: #3f87a6;
+color: #fff;
+}
+
+footer {
+font-size: 15pt;
+color:gray;
+font-style:italic;
+font-family:Verdana, sans-serif;
+}
+
+main
+{
+color: black;
+font: Georgia (serif);
+font-weight: normal;
+font-style: normal;
+text-align: center;
+}
+
+h1 
+{
+color: darkgreen;
+font-family: arial, sans-serif;
+font-size: 30px;
+font-weight: bold;
+margin-left: 0px;
+margin-right: 4px;
+background-color: lightgreen;
+text-transform: uppercase;
+text-align: center;
+}
+
+table{
+width:100%;
+table-layout: fixed;
+cell-padding: 0;
+cellspacing: 0;
+border: 0;
+}
+
+.tbl-header{
+  background-color: rgba(255,255,255,0.3);
+ }
+
+.tbl-content{
+  height:300px;
+  overflow-x:auto;
+  margin-top: 0px;
+  border: 1px solid rgba(255,255,255,0.3);
+}
+
+th{
+  padding: 20px 15px;
+  text-align: center;
+  font-weight: 500;
+  font-size: 12px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+td{
+  padding: 15px;
+  text-align: center;
+  vertical-align:middle;
+  font-weight: 300;
+  font-size: 12px;
+  color: #fff;
+  border-bottom: solid 1px rgba(255,255,255,0.1);
+}
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
+body{
+  background: -webkit-linear-gradient(left, #25c481, #25b7c4);
+  background: linear-gradient(to right, #25c481, #25b7c4);
+  font-family: 'Roboto', sans-serif;
+}
+
+section{
+  margin: 50px;
+}
+
+iframe{
+frameborder: 0;
+scrolling: no;
+}
+</style>
