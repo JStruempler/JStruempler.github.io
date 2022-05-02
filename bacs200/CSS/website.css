@@ -104,6 +104,11 @@ td{
   border-bottom: solid 1px rgba(255,255,255,0.1);
 }
 
+body{
+  background: linear-gradient(to bottom, rgb(204,207,255), rgb(199,202,237));
+  font-family: 'Roboto', sans-serif;
+}
+
 section{
   margin: 50px;
 }
