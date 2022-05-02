@@ -34,7 +34,7 @@ text-align: center;
 
 tfoot
 {
-background-color: #3f87a6;
+background-color: rgb(204,207,255);
 color: #fff;
 }
 
@@ -56,13 +56,13 @@ text-align: center;
 
 h1 
 {
-color: darkgreen;
+color: darkblue;
 font-family: arial, sans-serif;
 font-size: 30px;
 font-weight: bold;
 margin-left: 0px;
 margin-right: 4px;
-background-color: lightgreen;
+background-color: rgb(204,207,255);
 text-transform: uppercase;
 text-align: center;
 }
@@ -76,7 +76,7 @@ border: 0;
 }
 
 .tbl-header{
-  background-color: rgba(255,255,255,0.3);
+  background-color: rgb(204,207,255);
  }
 
 .tbl-content{
@@ -106,8 +106,7 @@ td{
 }
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
 body{
-  background: -webkit-linear-gradient(left, #25c481, #25b7c4);
-  background: linear-gradient(to right, #25c481, #25b7c4);
+  background: linear-gradient(to bottom, rgb(204,207,255), rgb(180,189,217));
   font-family: 'Roboto', sans-serif;
 }
 
